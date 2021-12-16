@@ -9,7 +9,7 @@
     <string name="eveningTime">5pm</string>
     <string name="nightTime">11pm</string>
     <string name="weatherUrl">https://api.openweathermap.org/data/2.5/onecall</string>
-    <string name="apiKey">846864c64e221e44b91e512da5aff624</string>
+    <string name="apiKey">--APIKEY--</string>
     <string name="zeroRain">(0% precip.)</string>
     <string name="noInternet">No Internet Connection</string>
     <string name="menuUnavailable">Function cannot be used when there is no internet connection</string>
