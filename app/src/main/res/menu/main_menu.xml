@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/unitsMenu"
+        android:title="@string/mUnitsTitle"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/dailyMenu"
+        android:icon="@drawable/daily"
+        android:title="@string/mDailyTitle"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/locationMenu"
+        android:icon="@drawable/location"
+        android:title="@string/mLocationTitle"
+        app:showAsAction="ifRoom" />
+</menu>
