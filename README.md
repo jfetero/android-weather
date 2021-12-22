@@ -3,7 +3,7 @@ An Android Weather application built for my CS 442 - Mobile Application Developm
 
 ## Features
 
-### Farenheit/Celsius Weather
+### Fahrenheit/Celsius Weather
 <p float="left">
   <img src="images/farenheit.png" height="500" width="250">
   <img src="images/celsius.png" height="500" width="250">
